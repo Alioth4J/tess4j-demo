@@ -1,4 +1,7 @@
 ## Tess4j 基础演示
+### 简介
+Tesseract 是一个开源 OCR 引擎，能将图像中的文本转换为可编辑的文本数据。  
+Tess4J 是基于 Java 的 Tesseract 的封装库，使 Java 开发者能够方便地利用 Tesseract 进行文本识别。
 ### 环境配置
 操作系统：Windows  
 - 下载 Tesseract 安装包：[https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe)  
