@@ -17,7 +17,7 @@ public class Tess4JDemo {
         // 创建 Tesseract 对象
         Tesseract tess = new Tesseract();
         // 设置训练数据所在位置
-        tess.setDatapath("D:\\Tesseract-OCR\\tessdata");
+        tess.setDatapath("src/main/resources/tess4j");
         // 设置语言：英文 -> eng; 简体中文 -> chi_sim
         tess.setLanguage("chi_sim");
         // 字符串对象用于接收结果
